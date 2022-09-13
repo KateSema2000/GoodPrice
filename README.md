@@ -12,4 +12,4 @@
 
 Ссылка на телеграм бота: https://t.me/store_promotions_bot
 
-![bot logo](https://github.com/KateSema2000/TelegramBotGoodPrice/blob/main/logo.jpg)
+![bot logo](https://github.com/KateSema2000/TelegramBotGoodPrice/blob/main/logo.png)
